@@ -1,0 +1,24 @@
+{
+  "sidebar": {
+    "profile": "Profil",
+    "formation": "Formations",
+    "experience": "Expériences",
+    "competence": "Compétences",
+    "button":"agrandir",
+    "tache":"Tâches",
+    "copyright":"droits d'auteur 2021 © Développé par Zroud Sami"
+  },
+  "profile": {
+    "diplome": "Ingénieur Télécommunication et réseaux informatique",
+    "propos": "À PROPOS",
+    "desc": "Ingénieur informaticien comptant 4 ans d’expérience. Expertise dans les domaines de développement et réseaux informatique. Maitrise de plusieurs types de langages informatique et capable de travailler sur différente plateformes. Autonome mais capable de travailler en équipe. Grande disponibilité.",
+    "info": "Contact",
+    "nom": "Zroud",
+    "prenom": "Sami",
+    "permis": "B",
+    "num_tel": "+216 99 541 157",
+    "addressemail": "sami.zroud@gmail.com",
+    "addresse": "Mahdia, Chebba, Ghedhabna, cité berin 5136"
+  }
+
+}

@@ -1,0 +1,152 @@
+{
+  "sidebar": {
+    "profile": "Profile",
+    "formation": "Training",
+    "experience": "Experiences",
+    "competence": "Skills",
+    "button":"show more",
+    "tache":"Tasks",
+    "copyright":"Copyright 2021 © Developed by Zroud Sami"
+  },
+  "profile": {
+    "diplome": "Telecommunications and computer networks engineer",
+    "propos": "About",
+    "desc": "Computer engineer with 4 years of experience. Expertise in the fields of development and computer networks. Mastery of several types of computer languages and able to work on different platforms. Autonomous but able to work in a team. Great availability.",
+    "info": "Contact",
+    "nom": "Zroud",
+    "prenom": "Sami",
+    "permis": "B",
+    "num_tel": "+216 99 541 157",
+    "addressemail": "sami.zroud@gmail.com",
+    "addresse": "Mahdia, Chebba, Ghedhabna, cité berin 5136"
+  },
+  "formations":[
+    {
+    "annee": "2012-2015",
+    "diplome":"ENGINEERING GRADUATE IN TELECOMMUNICATION AND COMPUTER NETWORKS",
+    "ecole":"POLYTECHNIQUE SOUSSE",
+    "details":"Mobile networks, computer networks, Java, Arduino, web, Cisco, security and web developments",
+    "logo":"polytechnique.png",
+    "img":"ingenieur.jpg"
+    },
+    {
+      "annee":"2008-2012",
+      "diplome":" LICENSE APPLIED IN INDUSTRIAL COMPUTING AND AUTOMATION",
+      "ecole":" ISSAT SOUSSE",
+      "details":"  Assembleur, information system, automation system, real time system, computer network, C, C++, Java, html ",
+      "logo":"issat_Sousse.png",
+      "img":"licence.jpg"
+    },
+    {
+      "annee":"2007-2008",
+      "diplome":"Baccalaureate Computer Science",
+      "ecole":"LYCE ABOU KACEM CHEBBI",
+      "details":"Pascal, database, multimedia",
+      "logo":"lycées.png",
+      "img":"baccalouria.jpg"
+    }
+  ]
+  ,
+  "experiences":
+    [{
+      "societe": "Comguru",
+      "annee": "2021",
+      "periode": "4 months",
+      "poste": "Computer engineer",
+      "tache": "design and production of a web application allows you to create a local database from the collection of data found on an FTP server in the Country of France",
+      "logoSoc": "comguru.png"
+    },
+    {
+      "societe": "Business Process solution",
+      "annee": "2019-2020",
+      "periode": "1 year 3 months",
+      "poste": "Computer engineer",
+      "tache": "design and development of a web application which contains the following modules: <br> Design of the database according to our needs <br> Creation of the various APIs necessary for the good of our application with the Node JS (client / server communication in real time) <br> Development of the different interfaces and pages on the client side such as: Authentication, registration, configuration of accounts, addition and deletion of project elements, display of project contents, respecting the dynamic navigation between these different interfaces (Angular JS work tool ) <br> • Research and use of RSA and ALGamel cryptography for the encryption and decryption of keys, messages and  files <br> • Automation of an application with Windows APIs using the Autohotkey  platform <br> • Test penetration with Kali Lunix using attack and hacking tools such as: <br> o Nmap <br> o Metasploit 2 <br> o Wireshark <br> o Burp suite <br> o Armitage <br> • Test de performance with the Apache Jemeter tool <br> • Automation of web application tests with Selinium on the Java platform <br> • Organize test cases with the Testlink test management system <br> • Develop windows applications on the Windev and Windev Mobile platform",
+      "logoSoc": "bps.png"
+    },
+    {
+      "societe": "Agence de transit 4T",
+      "annee": "2018-2019",
+      "periode": "6 months",
+      "poste": "Forwarding agent",
+      "tache": "Use the documents necessary for filling out the customs form. <br> Process information on the TTN system <br> Go out on a visit with customs agents to check the goods",
+      "logoSoc": ""
+    },
+    {
+      "societe": "ITGRAPS",
+      "annee": "2015",
+      "periode": "4 months",
+      "poste": "Student (End of study project)",
+      "tache": "design and production of an Arduino-based supervision system (monitoring from a website)",
+      "logoSoc": "ITGRAPS.png"
+    },
+    {
+      "societe": "MSK",
+      "annee": "2014",
+      "periode": "3 months",
+      "poste": "Freelance",
+      "tache": "Develop a stock management website: HTML, CSS, JavaScript, MySQL (database)",
+      "logoSoc": ""
+    },
+    {
+      "societe": "Projet fin d’étude Individuel",
+      "annee": "2012",
+      "periode": "4 months",
+      "poste": "Student (Applied License in Industrial IT 'Automatism')",
+      "tache": "Realization of a speed regulator as needed for use at the base of PIC16f877 (Assembler, C, C ++)",
+      "logoSoc": ""
+    },
+    {
+      "societe": "Vitalait",
+      "annee": "2010",
+      "periode": "1 months",
+      "poste": "Student (Applied License in Industrial IT 'Automatism')",
+      "tache": "Discover the notion of an automated system <br> Draw a graph of the entire operation of the system <br> Highlight the different methods of designing or using these automated systems",
+      "logoSoc": "vitalait.png"
+    }
+  ],
+  "competences":[
+
+  {
+    "domaine":"Programming, Web development",
+    "framework":"visuel studio, Windev, Angular, Node, Autohotkey, Arduino, Eclipse, Laravel",
+    "language":"assembleur, C++, Arduino, html, JavaScript, TypeScript, Java JEE, PHP, Windev, Windev Mobile, Autohotkey",
+    "tache":"Design and development of web applications",
+    "icon":["angular.png","nodejs.png","java.png","laravel.png","c++.png","autohotkey.png","arduino.png"]
+
+  },
+  {
+    "domaine":"Test",
+    "framework":"Lunix Kali, Metasploit2, WireShark, Burp Suite, Armitage, Apache Jemeter, Postman, TestLink",
+    "language":"",
+    "tache":"Extract and organize test cases and reproduce them into functional and automated tests",
+    "icon":["kali.png","metasploit.png","wireshark.png","burpsuite.png","jmeter.png","postman.png","testlink.png"]
+  },
+  {
+    "domaine":"Office automation",
+    "framework":"Windev,Microsoft Office, Google Ads, Outils Windows",
+    "language":"",
+    "tache":"Reporting, development of desktop applications with Windev, preparation of system operation",
+    "icon":["windev.png","office.png"]
+
+  },
+  {
+    "domaine":"Database",
+    "framework":"MySQL server, Access, Moongose, MongoDB",
+    "language":"SQL, NoSQL",
+    "tache":"create databases according to the needs of the projects",
+    "icon":["mongodb.png","mysql.png"]
+  },
+  {
+    "domaine":"Networks",
+    "framework":"",
+    "language":"",
+    "tache":"topologies, network cabling, protocols, network administration",
+    "icon":["reseau.png"]
+  }
+  ]
+
+
+
+
+}
